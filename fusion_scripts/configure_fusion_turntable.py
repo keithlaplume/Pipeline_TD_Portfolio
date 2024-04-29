@@ -1,6 +1,7 @@
 """This code is considered proprietary property of Snowball Studios and its affiliates and is not for re-use in any way.
 It is being provided to as sample code and portions have been blocked out to make it deliberately unusable.
 If you are interested in reviewing a more complete code example with me please contact me at contact@keithlaplume.com"""
+"""Sets up all the expected values for an asset's turntable comp based on a comp template"""
 import os
 import sys
 import BlackmagicFusion as bmd
